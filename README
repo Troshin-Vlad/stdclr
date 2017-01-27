@@ -1,0 +1,39 @@
+
+	---	color library	---
+
+lib: stdclr.h
+Description:
+	lib defined format text for C
+	Библиотека определяет константы форматирования текста для языка Си
+
+text decoration:
+	default, bold, hidden, inline, underline, revers, normal
+
+	- TEXT_DEF - ( Default / По умолчанию )
+	- TEXT_BLD - ( Bold / Жирный )
+	- TEXT_INL - ( Inline / Курсив )
+	- TEXT_UND - ( Underline / Подчёркивание )
+	- TEXT_REV - ( Revers / Противоположность )
+	- TEXT_NRM - ( Normal / Нормалный )
+
+text color:
+	black, red, green, drown, blue, purpur, aqua, grey
+
+	- TEXT_CLR_BLK - ( Black / Чёрный )
+	- TEXT_CLR_GRN - ( Green / Зедёный )
+	- TEXT_CLR_DRW - ( Drown / Коричневый )
+	- TEXT_CLR_BLU - ( Blue / Синий )
+	- TEXT_CLR_PUR - ( Purpur / Фиолетовый )
+	- TEXT_CLR_AQU - ( Aqua / Аква )
+	- TEXT_CLR_GRY - ( Grey / Серый )
+
+background color:
+	black, red, green, drown, blue, purpur, aqua, grey
+	
+	- BACK_CLR_BLK - ( Black / Чёрный )
+	- BACK_CLR_GRN - ( Green / Зедёный )
+	- BACK_CLR_DRW - ( Drown / Коричневый )
+	- BACK_CLR_BLU - ( Blue / Синий )
+	- BACK_CLR_PUR - ( Purpur / Фиолетовый )
+	- BACK_CLR_AQU - ( Aqua / Аква )
+	- BACK_CLR_GRY - ( Grey / Серый )
