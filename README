@@ -3,8 +3,8 @@
 
 lib: stdclr.h
 Description:
-	lib defined format text for C
-	Библиотека определяет константы форматирования текста для языка Си
+	lib defined format text for C (Linux)
+	Библиотека определяет константы форматирования текста для языка Си (под Linux)
 
 text decoration:
 	default, bold, hidden, inline, underline, revers, normal
